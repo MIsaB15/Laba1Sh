@@ -33,6 +33,7 @@
             else if (kopeyks == 0)
                 Console.WriteLine($"{rubles} {rublesStr} ровно");
             else Console.WriteLine($"{rubles} {rublesStr} {kopeyks} {kopeyksSrt}");
+
         }
     }
 }
